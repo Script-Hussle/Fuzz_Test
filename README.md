@@ -1,4 +1,3 @@
-# Beast_Scanner
 
 <h1 align="center">
   <br>
