@@ -10,8 +10,8 @@
 <h1>Main Features</h1>
 <ul>
   <li>Port Scanning – Scans for open ports on a target system to identify potential vulnerabilities.</li>
-  <li>-Honeypot Detection – Detects whether a system is a honeypot designed to trap attackers.</li>
-  <li>-Reverse IP Lookup – Retrieves domains associated with an IP address for reconnaissance.</li>
+  <li>Honeypot Detection – Detects whether a system is a honeypot designed to trap attackers.</li>
+  <li>Reverse IP Lookup – Retrieves domains associated with an IP address for reconnaissance.</li>
 </ul>
 
 
