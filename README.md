@@ -7,3 +7,7 @@
   <br>
 </h1>
 <h4 align="center">Made with ❤️ for network security analysis.</h4>
+### Main Features
+-Port Scanning – Scans for open ports on a target system to identify potential vulnerabilities.
+-Honeypot Detection – Detects whether a system is a honeypot designed to trap attackers.
+-Reverse IP Lookup – Retrieves domains associated with an IP address for reconnaissance.
